@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="KotlinNotebookOptionsProvider">
+    <option name="extraEnvironmentVariables">
+      <map>
+        <entry key="YOUTUBE_API_KEY" value="AIzaSyD1hiKOCqtTjPsVVk1JidgHiQFtnoxnWx8" />
+      </map>
+    </option>
+    <option name="heapMaxLimitInMib" value="30256" />
+  </component>
+</project>
